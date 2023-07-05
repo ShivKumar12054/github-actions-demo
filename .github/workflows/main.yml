@@ -1,10 +1,11 @@
-- name: Prettier, please!
+name: Prettier, please!
   # You may pin to the exact commit or the version.
   # uses: reiddraper/prettier-please@78c10c34c7c783e9ff98d49a6aaa9b015f4381f2
   uses: reiddraper/prettier-please@v0.0.1
   with:
     # GitHub token
-    github-token: 
+    github-token:
+    
     # Name to use for git commits
     git-user.name: # optional, default is github-actions[bot]
     # Email to use for git commits
