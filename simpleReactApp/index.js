@@ -3,7 +3,7 @@ class App extends React.Component {
     return (
       <div>
         <Hello />
-        <Hello to="sambit" from="shiva"/>
+        <Hello to="sambit" from="shiva" />
       </div>
     );
   }
